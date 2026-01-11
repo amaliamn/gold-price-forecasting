@@ -4,9 +4,9 @@
 Which model performs best for forecasting daily gold prices in the medium-term (63 days ahead):
 Naive Forecast (Benchmark), Random Forest Regressor (RF), or Long short term memory (LSTM)?
 
-## Setup
+# Setup
 
-# Create environment
+## Create environment
 conda env create -f environment.yml
 conda activate gold_forecasting
 
