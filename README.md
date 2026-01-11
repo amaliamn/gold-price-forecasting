@@ -7,14 +7,16 @@ Naive Forecast (Benchmark), Random Forest Regressor (RF), or Long short term mem
 # Setup
 
 ## Create environment
+```
 conda env create -f environment.yml
 conda activate gold_forecasting
+```
 
 ## Usage
 
 python main.py
 
-Expected output: Accuracy comparison between three models.
+**Expected output:** Accuracy comparison between three models.
 
 ## Project Structure
 ```
@@ -34,19 +36,19 @@ my-project/
 ```
 
 ## Results
-- Naive Forecast (Benchmark):
-      MSE : 12115.33
-      RMSE: 110.07
-      MAE : 91.04
-- Random Forest Regressor (RF):
-      MSE : 10809.31
-      RMSE: 103.97
-      MAE : 90.10
-- Long short-term memory (LSTM):
-      MSE : 8966.35
-      RMSE: 94.69
-      MAE : 78.28
-- Winner: Long short-term memory (LSTM) for all evaluation metrics!
+- **Naive Forecast (Benchmark):**
+  - MSE : 12115.33
+  - RMSE: 110.07
+  - MAE : 91.04
+- **Random Forest Regressor (RF):**
+  - MSE : 10809.31
+  - RMSE: 103.97
+  - MAE : 90.10
+- **Long short-term memory (LSTM):**
+  - MSE : 8966.35
+  - RMSE: 94.69
+  - MAE : 78.28
+- **Winner:** Long short-term memory (LSTM) for all evaluation metrics!
 
 ## Requirements
 - Python 3.12
