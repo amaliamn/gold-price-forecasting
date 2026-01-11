@@ -1,0 +1,4 @@
+Model,MSE,RMSE,MAE
+Naive Forecast (Benchmark),12115.33,110.07,91.04
+Random Forest Regression,10810.33,103.97,90.1
+Long Short-Term Memory,8940.83,94.56,78.03
