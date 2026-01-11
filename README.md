@@ -1,7 +1,4 @@
-# Gold Price Forecasting: Model Comparison
-
-## Title
-Forecasting Gold Prices Using Random Forest Regressor and Long Short Term Memory Models
+# Forecasting Gold Prices Using Random Forest Regressor and Long Short Term Memory Models
 
 ## Research Question
 Which model performs best for forecasting daily gold prices in the medium-term (63 days ahead):
@@ -20,7 +17,7 @@ python main.py
 Expected output: Accuracy comparison between three models.
 
 ## Project Structure
-
+```
 my-project/
 ├── main.py              # Main entry point
 ├── data/                # Data directory
@@ -34,6 +31,7 @@ my-project/
 │   ├── figures/         # Prediction plots
 │   └── appendix/        # Correlation matrix and hyperparameter tuning top 5 results
 └── environment.yml      # Software dependencies
+```
 
 ## Results
 - Naive Forecast (Benchmark):
