@@ -1,7 +1,7 @@
 # Forecasting Gold Prices Using Random Forest Regressor and Long Short Term Memory Models
 
 ## Research Question
-Which model performs best for forecasting daily gold prices in the medium-term (63 days ahead):  
+Which model performs best for forecasting daily gold prices, in light of financial indicators, in the medium-term:  
 Naive Forecast (Benchmark), Random Forest Regressor (RF), or Long short term memory (LSTM)?
 
 # Setup
