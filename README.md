@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gold Price Forecasting: Model Comparison
 
 ## Title
@@ -54,7 +53,3 @@ my-project/
 ## Requirements
 - Python 3.12
 - scikit-learn, pandas, numpy, matplotlib, seaborn, tensorflow
-=======
-# gold-price-forecasting
-Forecasting Gold Prices Using Random Forest Regressor and Long Short-Term Memory Models (UNIL Advanced Programming Capstone Project, 2025)
->>>>>>> 9ed01f8d97a65dfc930f7731ceb9f61dca89e950
